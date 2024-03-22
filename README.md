@@ -8,7 +8,7 @@ Para executar o projeto, siga estas etapas:
 
 1. Clone o repositório para o seu ambiente local:
 
-git clone https://github.com/seu-usuario/desafio-backend.git
+git clone https://github.com/seu-usuario/desafio-back.git
 
 2. Navegue até o diretório do projeto:
 
